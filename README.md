@@ -17,7 +17,9 @@ In this assignment, we delved into the foundational concepts of java, including:
 
 You can view my work for Assignment 1 [here](./src/InsertionSort.java).
 
-Thank you for taking the time to explore my Solvd Laba assignments. I hope this collection demonstrates my commitment to learning and applying Solvd Laba concepts effectively.
+
+
+
 
 Happy coding!
 
