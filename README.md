@@ -6,7 +6,7 @@ Welcome to my Solvd Laba course assignments! Below, you'll find a collection of 
 
 - [Assignment 1: Introduction to Solvd Laba](#assignment-1-introduction-to-solvd-laba)
 
-## Assignment 1: Introduction to Solvd Laba
+## Assignment 1: Introduction to JDK, JRE & Sorting Algorithms.
 
 In this assignment, we delved into the foundational concepts of java, including:
 
