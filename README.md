@@ -1,4 +1,4 @@
-# Solvd Laba Course Assignments Showcase
+# Solvd Laba Course Assignments
 
 Welcome to my Solvd Laba course assignments! Below, you'll find a collection of my homework, demonstrating my skills and understanding of the course material.
 
@@ -16,8 +16,6 @@ In this assignment, we delved into the foundational concepts of java, including:
 - Sorting algorithm - **Insertion Sort** .
 
 You can view my work for Assignment 1 [here](./src/InsertionSort.java).
-
-
 
 
 
