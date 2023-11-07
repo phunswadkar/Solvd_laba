@@ -1,4 +1,4 @@
-package university;
+package university_hw1;
 
 public class ParkingLot {
   private String name;

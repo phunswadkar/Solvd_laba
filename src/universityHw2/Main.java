@@ -1,6 +1,4 @@
-package university;
-
-import java.time.LocalDate;
+package university_hw1;
 
 public class Main {
   public static void main(String[] args) {

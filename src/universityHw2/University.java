@@ -1,4 +1,4 @@
-package university;
+package university_hw1;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
